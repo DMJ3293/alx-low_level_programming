@@ -2,7 +2,7 @@
 
 /**
  * more_number - prints 0 to 14 ten times
- * Return: Always 0
+ * Return: Always 0.
  */
 void more_numbers(void)
 {
@@ -20,5 +20,6 @@ void more_numbers(void)
 		}
 
 		_putchar('\n');
+		return (0);
 	}
 }
