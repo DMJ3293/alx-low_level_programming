@@ -1,1 +1,1 @@
-tatic_libraries
+static_libraries
