@@ -1,0 +1,2 @@
+.file	"_putchar.c"
+
